@@ -19,7 +19,7 @@ import e.aman.demo.repository.EmployeeRepo;
 
 @RestController
 @RequestMapping("api")
-public class helloController {
+public class EmployeeController {
 
 
 	@Autowired
